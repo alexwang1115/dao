@@ -1,6 +1,6 @@
 # DAOXIN MARKETING BLOGS
 #### Live Web Link: https://daoxin-marketing-blogs.netlify.app/index.html
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/oaEA2VE_HEg
 #### Description:
 
 I am a Marketing Major Undergraduate with a love for coding. I took an opportunity to use this Final project to start my marketing portfolio blogs to help me with my admission to a master's in Business Analysis. The content of this Final Project is the Final Paper of my undergraduate major. We helped a Rose Box business improve their website design, improve online presence, find better customer segments and collaborate with complementary businesses. This is just the beginning of my website. I will be adding more content for the Business Analysis projects I did. For now, it’s just a simple blog site but it has its purpose to help me with my career

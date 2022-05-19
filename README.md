@@ -16,6 +16,8 @@ Now let’s talk about the code.
 
 I feel w3schools documentations are easiest for me to apply and to learn web development so choose it. I used a lot of HTML elements and dependencies from w3schools and google fonts. I chose to insert the CSS file in the HTML file because I felt it’s way easier and better to design my website that way. The “Read More” buttons are Javascript onclick commands that send users to each post page. For clean and organized coding I put the asset files in an asset folder, added comments for each code section, and beautified the code. Lastly, I uploaded and published it live to netlify to show the world my portfolio. I accomplished this by uploading my files from my Visual Studio code to Github and then connecting my netlify to my Github repository.
 
+All of the HTML files contain CSS and JavaScript. "Index.html" is the homepage. "Coding.html" is where the coding blogs will be put. "sales.html" and "newop.html" are where the specific post is written. They all contain HTML tags such as HTML, title, meta, and link for importation, style for CSS, head, and body. div, header, b, h3, span, p, a button where I use a JavaScript for onclick command, hr, img, h5, ul, li, h4, br, footer. 
+
 
 
 
